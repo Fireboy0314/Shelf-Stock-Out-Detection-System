@@ -1,0 +1,8 @@
+ultralytics
+torch
+torchvision
+pillow
+numpy
+matplotlib
+scikit-learn
+pyyaml
